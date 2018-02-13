@@ -1,0 +1,12 @@
+/Users/Sky/Downloads/Wan_20Qs/Wan_20Qs/Wan_20Qs/bin/Release/Wan_20Qs.exe.config
+/Users/Sky/Downloads/Wan_20Qs/Wan_20Qs/Wan_20Qs/bin/Release/Wan_20Qs.exe
+/Users/Sky/Downloads/Wan_20Qs/Wan_20Qs/Wan_20Qs/bin/Release/Wan_20Qs.pdb
+/Users/Sky/Downloads/Wan_20Qs/Wan_20Qs/Wan_20Qs/obj/Release/Wan_20Qs.csproj.CoreCompileInputs.cache
+/Users/Sky/Downloads/Wan_20Qs/Wan_20Qs/Wan_20Qs/obj/Release/Wan_20Qs.exe
+/Users/Sky/Downloads/Wan_20Qs/Wan_20Qs/Wan_20Qs/obj/Release/Wan_20Qs.pdb
+/Users/Sky/Downloads/Wan_20Qs/Wan_20Qs/Wan_20Qs/Wan_20Qs/bin/Release/Wan_20Qs.exe.config
+/Users/Sky/Downloads/Wan_20Qs/Wan_20Qs/Wan_20Qs/Wan_20Qs/bin/Release/Wan_20Qs.exe
+/Users/Sky/Downloads/Wan_20Qs/Wan_20Qs/Wan_20Qs/Wan_20Qs/bin/Release/Wan_20Qs.pdb
+/Users/Sky/Downloads/Wan_20Qs/Wan_20Qs/Wan_20Qs/Wan_20Qs/obj/Release/Wan_20Qs.csproj.CoreCompileInputs.cache
+/Users/Sky/Downloads/Wan_20Qs/Wan_20Qs/Wan_20Qs/Wan_20Qs/obj/Release/Wan_20Qs.exe
+/Users/Sky/Downloads/Wan_20Qs/Wan_20Qs/Wan_20Qs/Wan_20Qs/obj/Release/Wan_20Qs.pdb

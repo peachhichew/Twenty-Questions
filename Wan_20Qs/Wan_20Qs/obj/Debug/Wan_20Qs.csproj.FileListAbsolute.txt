@@ -1,0 +1,31 @@
+Z:/IGMProfile/Desktop/IGME 201/Wan_20Qs/Wan_20Qs/bin/Debug/Wan_20Qs.exe.config
+Z:/IGMProfile/Desktop/IGME 201/Wan_20Qs/Wan_20Qs/bin/Debug/Wan_20Qs.exe
+Z:/IGMProfile/Desktop/IGME 201/Wan_20Qs/Wan_20Qs/bin/Debug/Wan_20Qs.pdb
+Z:/IGMProfile/Desktop/IGME 201/Wan_20Qs/Wan_20Qs/obj/Debug/Wan_20Qs.csprojResolveAssemblyReference.cache
+Z:/IGMProfile/Desktop/IGME 201/Wan_20Qs/Wan_20Qs/obj/Debug/Wan_20Qs.exe
+Z:/IGMProfile/Desktop/IGME 201/Wan_20Qs/Wan_20Qs/obj/Debug/Wan_20Qs.pdb
+C:/Users/conta/Documents/Visual Studio 2015/Projects/Wan_20Qs/Wan_20Qs/Wan_20Qs/bin/Debug/Wan_20Qs.exe.config
+C:/Users/conta/Documents/Visual Studio 2015/Projects/Wan_20Qs/Wan_20Qs/Wan_20Qs/obj/Debug/Wan_20Qs.exe
+C:/Users/conta/Documents/Visual Studio 2015/Projects/Wan_20Qs/Wan_20Qs/Wan_20Qs/obj/Debug/Wan_20Qs.pdb
+C:/Users/conta/Documents/Visual Studio 2015/Projects/Wan_20Qs/Wan_20Qs/Wan_20Qs/bin/Debug/Wan_20Qs.exe
+C:/Users/conta/Documents/Visual Studio 2015/Projects/Wan_20Qs/Wan_20Qs/Wan_20Qs/bin/Debug/Wan_20Qs.pdb
+C:/Users/conta/Documents/Visual Studio 2015/Projects/Wan_20Qs/Wan_20Qs/Wan_20Qs/obj/Debug/Wan_20Qs.csprojResolveAssemblyReference.cache
+/Users/Sky/Downloads/Wan_20Qs/Wan_20Qs/Wan_20Qs/bin/Debug/Wan_20Qs.exe.config
+/Users/Sky/Downloads/Wan_20Qs/Wan_20Qs/Wan_20Qs/bin/Debug/Wan_20Qs.exe
+/Users/Sky/Downloads/Wan_20Qs/Wan_20Qs/Wan_20Qs/bin/Debug/Wan_20Qs.pdb
+/Users/Sky/Downloads/Wan_20Qs/Wan_20Qs/Wan_20Qs/obj/Debug/Wan_20Qs.csprojResolveAssemblyReference.cache
+/Users/Sky/Downloads/Wan_20Qs/Wan_20Qs/Wan_20Qs/obj/Debug/Wan_20Qs.csproj.CoreCompileInputs.cache
+/Users/Sky/Downloads/Wan_20Qs/Wan_20Qs/Wan_20Qs/obj/Debug/Wan_20Qs.exe
+/Users/Sky/Downloads/Wan_20Qs/Wan_20Qs/Wan_20Qs/obj/Debug/Wan_20Qs.pdb
+D:\Profiles\sxw8136\Downloads\Wan_20Qs\Wan_20Qs\Wan_20Qs\Wan_20Qs\bin\Debug\Wan_20Qs.exe.config
+D:\Profiles\sxw8136\Downloads\Wan_20Qs\Wan_20Qs\Wan_20Qs\Wan_20Qs\bin\Debug\Wan_20Qs.exe
+D:\Profiles\sxw8136\Downloads\Wan_20Qs\Wan_20Qs\Wan_20Qs\Wan_20Qs\bin\Debug\Wan_20Qs.pdb
+D:\Profiles\sxw8136\Downloads\Wan_20Qs\Wan_20Qs\Wan_20Qs\Wan_20Qs\obj\Debug\Wan_20Qs.csprojResolveAssemblyReference.cache
+D:\Profiles\sxw8136\Downloads\Wan_20Qs\Wan_20Qs\Wan_20Qs\Wan_20Qs\obj\Debug\Wan_20Qs.exe
+D:\Profiles\sxw8136\Downloads\Wan_20Qs\Wan_20Qs\Wan_20Qs\Wan_20Qs\obj\Debug\Wan_20Qs.pdb
+C:\Users\conta\Documents\Visual Studio 2015\Projects\Wan_20Qs\Wan_20Qs\Wan_20Qs\Wan_20Qs\Wan_20Qs\bin\Debug\Wan_20Qs.exe.config
+C:\Users\conta\Documents\Visual Studio 2015\Projects\Wan_20Qs\Wan_20Qs\Wan_20Qs\Wan_20Qs\Wan_20Qs\obj\Debug\Wan_20Qs.exe
+C:\Users\conta\Documents\Visual Studio 2015\Projects\Wan_20Qs\Wan_20Qs\Wan_20Qs\Wan_20Qs\Wan_20Qs\obj\Debug\Wan_20Qs.pdb
+C:\Users\conta\Documents\Visual Studio 2015\Projects\Wan_20Qs\Wan_20Qs\Wan_20Qs\Wan_20Qs\Wan_20Qs\bin\Debug\Wan_20Qs.exe
+C:\Users\conta\Documents\Visual Studio 2015\Projects\Wan_20Qs\Wan_20Qs\Wan_20Qs\Wan_20Qs\Wan_20Qs\bin\Debug\Wan_20Qs.pdb
+C:\Users\conta\Documents\Visual Studio 2015\Projects\Wan_20Qs\Wan_20Qs\Wan_20Qs\Wan_20Qs\Wan_20Qs\obj\Debug\Wan_20Qs.csprojResolveAssemblyReference.cache
