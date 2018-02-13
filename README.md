@@ -1,0 +1,2 @@
+# Twenty-Questions
+This program replicates the Twenty Questions game, where someone has to ask a series of "yes" or "no" questions in attempt to figure out the name the other person is thinking of. I used a binary search tree to save and reproduce the names and questions. When the program cannot correctly guess the name of the individual, it will "learn" the new name by asking for a unique characteristic of the person and store the trait and name inside the tree. This is a console-based application developed in C#.
